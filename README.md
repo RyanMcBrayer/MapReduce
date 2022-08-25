@@ -18,10 +18,10 @@ Run Command:
 Examples:
 
 ./mapreduce basic.txt four  
-should find "four" 4 times.
+(should find "four" 4 times)
 
 ./mapreduce big.txt Nulla  
-should find "Nulla" 828 times.
+(should find "Nulla" 828 times)
 
 ./mapreduce big.txt Nullam  
-should find "Nullam" 643 times.
+(should find "Nullam" 643 times)
