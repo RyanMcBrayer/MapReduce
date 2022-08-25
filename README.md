@@ -7,6 +7,7 @@ This project was done as an assignment for my Operating Systems course. The head
 ## Running the Wordcount Example
 
 The provided main.c uses the functions from mapreduce.c to implement a simple wordcount program.
+Open the contents of the /src directory above on a Linux machine. Then follow the steps below to test the library with the word count example.
 
 Compilation:
 gcc -o mapreduce main.c mapreduce.c hashmap.c -Wall -Werror -pthread
