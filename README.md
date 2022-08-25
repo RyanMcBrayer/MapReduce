@@ -16,11 +16,11 @@ Run Command:
 
 Examples:
 
-./mapreduce basic.txt four
+./mapreduce basic.txt four      \n
 should find "four" 4 times.
 
-./mapreduce big.txt Nulla
+./mapreduce big.txt Nulla       \n
 should find "Nulla" 828 times.
 
-./mapreduce big.txt Nullam
+./mapreduce big.txt Nullam       \n
 should find "Nullam" 643 times.
